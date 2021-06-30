@@ -1,0 +1,33 @@
+name: uas_mobileapss_mahendra
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/rrd.jpg
+    - assets/spiderman.jpg
+    - assets/fifa21.jpg
+    - assets/fifa.jpg
+    - assets/nba.jpg
+    - assets/gta.jpg
+    - assets/pes.jpg
+    - assets/uncharted.jpg
+    - assets/wwe.jpg
+
+}
